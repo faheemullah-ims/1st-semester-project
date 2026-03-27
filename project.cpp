@@ -8,7 +8,8 @@ using namespace std;
     	bool isAllocated;
 		};
 
-int main() {
+int main()
+{
     const int MAX = 50;
     Seat seats[MAX];
     int count = 0;
