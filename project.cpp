@@ -7,7 +7,6 @@ using namespace std;
     	string shift;
     	bool isAllocated;
 		};
-
 int main()
 {
     const int MAX = 50;
