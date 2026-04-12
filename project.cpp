@@ -10,7 +10,6 @@ using namespace std;
 
 int main()
 {
-	
     const int MAX = 50;
     Seat seats[MAX];
     int count = 0;
