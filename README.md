@@ -1,6 +1,5 @@
  Classroom Seat Allocation System
- 
-A console-based C++ application to manage classroom seat allocations for students. This program allows allocation, viewing, searching, updating, and deleting of seats. It is designed for educational or administrative use in classrooms with limited seating.
+ A console-based C++ application to manage classroom seat allocations for students. This program allows allocation, viewing, searching, updating, and deleting of seats. It is designed for educational or administrative use in classrooms with limited seating.
 
  Features
 - **Allocate Seat**: Assign a seat to a student with details like seat number, room number, roll number, and shift (Morning/Evening).  
